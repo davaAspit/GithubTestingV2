@@ -11,6 +11,7 @@ namespace GithubTestingV2
         static void Main(string[] args)
         {
             Console.WriteLine("Hello GitHub");
+            Console.WriteLine("Mere tekst");
         }
     }
 }
