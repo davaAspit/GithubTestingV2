@@ -12,6 +12,7 @@ namespace GithubTestingV2
         {
             Console.WriteLine("Hello GitHub");
             Console.WriteLine("Mere tekst");
+            Console.WriteLine("Endnu mere tekst");
         }
     }
 }
